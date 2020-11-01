@@ -4,7 +4,7 @@ import (
 	"net"
 	"syscall"
 
-	"github.com/google/gopacket/pcapgo"
+	"github.com/photostorm//gopacket/pcapgo"
 )
 
 type rawSocket struct {

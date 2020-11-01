@@ -8,7 +8,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/google/gopacket/macs"
+	"github.com/photostorm/gopacket/macs"
 )
 
 func defaultInterfaceName() (string, error) {
